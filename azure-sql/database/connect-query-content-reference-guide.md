@@ -41,6 +41,10 @@ Watch this video in the [Azure SQL Database essentials series](/shows/azure-sql-
 | [Python](connect-query-python.md) | This quickstart demonstrates how to use Python to connect to a database and use Transact-SQL statements to query data. |
 | [Ruby](connect-query-ruby.md) | This quickstart demonstrates how to use Ruby to create a program to connect to a database and use Transact-SQL statements to query data. |
 
+### Third-party GUI clients
+
+You can also connect to Azure SQL Database and Azure SQL Managed Instance using third-party SQL client tools. For example, [Beekeeper Studio](https://www.beekeeperstudio.io/alternatives/azure-data-studio) is a free, open-source editor that connects using its SQL Server connection type, supports MySQL, Postgres, and SQLite in addition to SQL Server, and supports Azure Active Directory (Microsoft Entra ID) authentication.
+
 ## Get server connection information
 
 Get the connection information you need to connect to the database in Azure SQL Database. You need the fully qualified server name or host name, database name, and login information for the upcoming procedures.
